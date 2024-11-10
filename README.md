@@ -1,2 +1,20 @@
 # Exercicios-Python
  Este repositório contém alguns exercícios realizados nos módulos do curso de Python do cursoemvideo em 2020.
+
+- [Aluguel de Carros](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Aluguel-de-Carros-main)
+- [Analisador de Textos](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Analisador-de-Textos-main)
+- [Calculando Descontos](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Calculando-Descontos-main)
+- [Catetos e Hipotenusa](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Catetos-e-Hipotenusa-main)
+- [Conversor de Temperaturas](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Conversor-de-Temperaturas-main)
+- [Pintando Parede](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Pintando-Parede-main)
+- [Primeira e última ocorrência de uma string](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Primeira-e-ultima-ocorrencia-de-uma-string-main)
+- [Primeiro e último nome de uma pessoa](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Primeiro-e-ultimo-nome-de-uma-pessoa-main)
+- [Procurando uma string dentro de outra](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Procurando-uma-string-dentro-de-outra-main)
+- [Quebrando um número](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Quebrando-um-Numero-main)
+- [Reajuste Salarial](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Reajuste-Salarial-main)
+- [Seno Cossente e Tangente](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Seno-Cossente-e-Tangente-main)
+- [Separando digítos de número](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Separando-digitos-de-numero-main)
+- [Sorteando um item na lista](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Sorteando-um-item-na-lista-main)
+- [Sorteando uma ordem na lista](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Sorteando-uma-ordem-na-lista-main)
+- [Verificando as primeiras letras de um texto](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Verificando-as-primeiras-letras-de-um-texto-main)
+- [Wallet](https://github.com/LeonardoMancilha/Exercicios-Python/tree/main/Wallet-main)
